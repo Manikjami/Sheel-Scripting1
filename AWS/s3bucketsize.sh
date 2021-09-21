@@ -4,7 +4,7 @@
 #Created Date: 09-Jan-2019
 #Modified Date:
 #WebSite: https://www.server-computer.com
-#Author: Ankam Ravi Kumar
+#Author: shaik khadar basha
 # START #
 echo -e "Please Enter your Bucket Name: \c"
 read -r BUCKETNAME
